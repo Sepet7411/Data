@@ -5,7 +5,7 @@ Here are my projects.
 - **[Customer Insights](Customer%20Insights/)** — analysis of the customer base and acquisition channels..
 
 <p align="center">
-  <img src="Customer%20Insights/Знімок%20екрана%202026-04-24%20093743.png" width="30%">
-  <img src="Customer%20Insights/Знімок%20екрана%202026-04-24%20093801.png" width="30%">
-  <img src="Customer%20Insights/Знімок%20екрана%202026-04-24%20093815.png" width="30%">
+  <img src="Customer%20Insights/Знімок%20екрана%202026-04-24%20093743.png" width="33%">
+  <img src="Customer%20Insights/Знімок%20екрана%202026-04-24%20093801.png" width="33%">
+  <img src="Customer%20Insights/Знімок%20екрана%202026-04-24%20093815.png" width="33%">
 </p>
