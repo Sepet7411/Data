@@ -1,9 +1,5 @@
-Data Analysis Project - Customer Insights
-Цей проект демонструє мої навички роботи з Power BI та аналізом даних.
-Опис проекту
-Звіт присвячений аналізу клієнтської бази, каналів залучення та демографічних показників.
-Технічні навички:
-- Power BI Desktop: розробка дашбордів та візуалізацій.
-- ETL: очищення та підготовка даних.
-- Моделювання: створення структури даних (Star Schema).
-- DAX: написання мір для аналітичних розрахунків.
+# My Analytics Portfolio
+Here are my projects.
+
+## Progects Customer Insights:
+- **[Customer Insights](Customer%20Insights/)** — analysis of the customer base and acquisition channels.
