@@ -24,6 +24,7 @@ Conditional Formatting: Used heatmaps to highlight high-risk geographic areas in
 * **Retention Strategy:** Identifying high-risk segments (like the Under 30 group) for targeted marketing campaigns.
 * **Competitive Intelligence:** Understanding specific areas where competitors are outperforming the company.
 * **Operational Optimization:** Analyzing service-related churn reasons to improve technical support or product offerings.
+  
 This project demonstrates proficiency in data cleaning, exploratory data analysis (EDA), and business intelligence reporting.
 
 # Аналіз відтоку клієнтів (Customer Churn Analysis Dashboard)
