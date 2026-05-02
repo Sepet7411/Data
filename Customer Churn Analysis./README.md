@@ -1,5 +1,5 @@
 # Customer Churn Analysis Dashboard
-![Dashboard Screenshot](Customer%20Churn%20Analysis./Знімок%20екрана%202026-05-02%20165423.png)
+![Customer Churn Dashboard](Customer%20Churn%20Analysis./Знімок%20екрана%202026-05-02%20165423.png)
 ## Project Overview
 This project features an interactive Customer Churn Analysis Dashboard built in Microsoft Excel. The primary objective is to visualize key retention metrics, identify the root causes of customer attrition, and analyze demographic and behavioral patterns to support data-driven decision-making.
 ## Key Performance Indicators (KPIs)
